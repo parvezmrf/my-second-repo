@@ -7,3 +7,10 @@ h2{
     color:blueviolet;
     background-color: thistle;
 }
+body{
+    text-align: center;
+    
+}
+div h1{
+    display:inline-block;
+}
